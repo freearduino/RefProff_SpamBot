@@ -1,4 +1,4 @@
-token = '1912756097:AAGiPiu4GLcZ97wkgpYHAoqol8i5qooyF0c'
+token = ''
 
 GROUP_ID = -1001150784248
 
