@@ -1,6 +1,6 @@
 token = ''
 
-GROUP_ID = -1001150784248
+GROUP_ID = 
 
 strings = {
     "ru": {
